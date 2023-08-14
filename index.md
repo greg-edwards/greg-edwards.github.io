@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Data Analysis & Modelling (Python, R) 
+## Data Analysis & Modelling (Python, R) 
 
 [Spatial Analysis of Accessibility to Public Transport Services](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Visualisations & Web Applications
+## Visualisations & Web Applications
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
