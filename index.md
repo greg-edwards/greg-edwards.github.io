@@ -1,4 +1,4 @@
-## Check out some of my projects below👇
+_## Check out some of my projects below👇_
 
 ---
 
