@@ -24,9 +24,9 @@ _Tools used: Python, QGIS, Pandas, Folium_
 ---
 **[Estimating the Emissions of Plublic Transport Services and Operations](http://example.com/)**
 <br><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+To understand the cumulativemissions generated from different bus service scenarios, I estimated and evaluated the tailpipe emissions associated with different bus service scenarios developed for future operations in the Western Bay of Plenty. This involved using the European Environment Agency EMEP model, bus fleet data, and GTFS with R scripting to calculate CO2, Nox, and PM emissions associated with service operations.
 <br><br>
-_Tools used: R, GGPlot_
+_Tools used: R, GGPlot2_
 <br>
 <img src="images/Rplot_combined.png?raw=true"/>
 
@@ -36,11 +36,11 @@ _Tools used: R, GGPlot_
 
 **[Understanding Changes to PT Service Modifications](http://example.com/)**
 <br><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is a useful interactive web application tool that was created to visually illustrate changes to bus routes and other service modifications in the Western Bay of Plenty. Various route statistics are shown - such as route length, annual operating cost, kilometres driven per year, and forecast average daily PT demand - allowing the user to understand the wider imapacts that service modifications will have. The application is dynamically connected to the data sources, meaning that new data is refreshed with each option. 
 <br><br>
-_Tools used: R, GGPlot_
+_Tools used: JavaScript, HTML, CSS, Python, Streamlit_
 <br>
-<img src="images/Rplot_combined.png?raw=true"/>
+<img src="images/bus_modifications.PNG?raw=true"/>
 
 ---
 
