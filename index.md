@@ -4,15 +4,15 @@
 
 ## Data Analysis & Modelling (Python, R) 
 
-[Spatial Analysis of Accessibility to Public Transport Services](/sample_page)
+**[Spatial Analysis of Accessibility to Public Transport Services](/sample_page)**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Understanding Accessibility to High-Frequency Public Transport Services](/pdf/sample_presentation.pdf)
+**[Understanding Accessibility to High-Frequency Public Transport Services](/pdf/sample_presentation.pdf)**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Estimating the Emissions of Plublic Transport Services and Operations](http://example.com/)
+**[Estimating the Emissions of Plublic Transport Services and Operations](http://example.com/)**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
