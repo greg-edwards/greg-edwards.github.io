@@ -4,15 +4,15 @@
 
 ### Data Analysis & Modelling (Python, R) 
 
-[Project 1 Title](/sample_page)
+[Spatial Analysis of Accessibility to Public Transport Services](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Understanding Accessibility to High-Frequency Public Transport Services](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Estimating the Emissions of Plublic Transport Services and Operations](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -31,5 +31,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
