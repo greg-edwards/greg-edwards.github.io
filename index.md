@@ -5,7 +5,7 @@
 ## Data Analysis & Modelling (Python, R) 
 
 **[Spatial Analysis of Accessibility to Public Transport Services](/sample_page)**
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/accessibility.PNG?raw=true"/>
 
 ---
 **[Understanding Accessibility to High-Frequency Public Transport Services](/pdf/sample_presentation.pdf)**
