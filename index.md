@@ -13,9 +13,9 @@ _Tools used: Python, QGIS, Pandas, Folium_
 <img src="images/accessibility.PNG?raw=true"/>
 
 ---
-**[Forecasting Accessibility to High-Frequency Public Transport Services](/pdf/sample_presentation.pdf)**
+**[Forecasting Walking Time Access to High-Frequency Public Transport Services](/pdf/sample_presentation.pdf)**
 <br><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Modification to future bus serivce operations and routes is likely to impact how easily the public transport network is to access by residents and the community. This analysis was used to understand how future access to the bus network would change over time. Geospatial analysis was undertaken using forecast changes to land use, employment, and housing density. Walking time isochrones were developed and evalusated in Pandas and further visualised through spatial plotting libraries.
 <br><br>
 _Tools used: Python, QGIS, Pandas, Folium_
 <br>
