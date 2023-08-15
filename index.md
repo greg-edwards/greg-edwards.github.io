@@ -24,7 +24,7 @@ _Tools used: Python, QGIS, Pandas, Folium_
 ---
 **[Estimating the Emissions of Plublic Transport Services and Operations](http://example.com/)**
 <br><br>
-To understand the cumulativ emissions generated from different bus service scenarios, a model was developed to estimate and evaluate the tailpipe emissions associated with different bus service scenarios developed for future operations in the Western Bay of Plenty. This involved using the European Environment Agency EMEP model, bus fleet data, and GTFS with R scripting to calculate CO2, Nox, and PM emissions associated with service operations. R plotting libraries were used to visualise the results and demosntrate the emissions profile by time of day and vehilce fleet.
+To understand the cumulative emissions generated from different bus service operations, a model was developed to estimate and evaluate the tailpipe emissions associated with different bus service scenarios developed for future operations in the Western Bay of Plenty. This involved using the European Environment Agency EMEP model, bus fleet data, and GTFS with R scripting to calculate CO2, Nox, and PM emissions associated with service operations. R plotting libraries were used to visualise the results and demosntrate the emissions profile by time of day and vehilce fleet.
 <br><br>
 _Tools used: R, GGPlot2_
 <br>
