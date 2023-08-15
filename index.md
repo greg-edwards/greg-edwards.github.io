@@ -49,7 +49,7 @@ This is a useful interactive web application tool that was created to visually i
 <br><br>
 _Tools used: Python, JupyterLab, HTML_
 <br>
-<img src="images/bus_modifications.PNG?raw=true"/>
+<img src="images/accessibility.gif?raw=true"/>
 
 
 
