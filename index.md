@@ -6,7 +6,7 @@
 
 **[Modelling Changes in Journey Time Accessibility by Public Transport](/sample_page)**
 <br><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The aim of this model was to forecast and better understand how bus journey times change in response to different bus services, frequencies, and bus priority infrastructure. Broadly, it aimed to understand how accessibility, measured by travel time, would change under different scenarios. Travel time matrices were developed for each scenario, building on forecast land use and employment changes and the impact of planned bus priority infrastructure. The matrices were mapped via Python geospatial libraries for further analysis and client engagement.
 <br><br>
 _Tools used: Python, QGIS, Pandas, Folium_
 <br>
