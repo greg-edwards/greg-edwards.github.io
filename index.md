@@ -13,6 +13,15 @@ _Tools used: Python, QGIS, Pandas, Folium_
 <img src="images/accessibility.PNG?raw=true"/>
 
 ---
+**[Infrastructure Prioritisation Using a Big Data Model](/pdf/sample_presentation.pdf)**
+<br><br>
+Modification to future bus serivce operations and routes are likely to impact how easily the public transport network is to access by residents and the community. This analysis was used to understand how future access to the bus network would change over time. Geospatial analysis was undertaken using forecast changes to land use, employment, and housing density. Walking time isochrones were developed and evalusated in Pandas and further visualised through spatial plotting libraries.
+<br><br>
+_Tools used: Python, QGIS, Pandas, GeoPandas, Leaflet, JupyterLab_
+<br>
+<img src="images/walking_time.PNG?raw=true"/>
+
+---
 **[Forecasting Walking Time Access to High-Frequency Public Transport Services](/pdf/sample_presentation.pdf)**
 <br><br>
 Modification to future bus serivce operations and routes is likely to impact how easily the public transport network is to access by residents and the community. This analysis was used to understand how future access to the bus network would change over time. Geospatial analysis was undertaken using forecast changes to land use, employment, and housing density. Walking time isochrones were developed and evalusated in Pandas and further visualised through spatial plotting libraries.
