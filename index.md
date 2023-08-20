@@ -15,9 +15,9 @@ _Tools used: Python, QGIS, Pandas, Folium_
 ---
 **[Infrastructure Prioritisation Using a Big Data Model](/pdf/sample_presentation.pdf)**
 <br><br>
-Modification to future bus serivce operations and routes are likely to impact how easily the public transport network is to access by residents and the community. This analysis was used to understand how future access to the bus network would change over time. Geospatial analysis was undertaken using forecast changes to land use, employment, and housing density. Walking time isochrones were developed and evalusated in Pandas and further visualised through spatial plotting libraries.
+A persistent issue for governemnet agencies is how to identify urban locations that are best suited for capital investment. This model was developed to help identify to help identify promising locations for bus priority measures in the Western Bay of Plenty. An approach was developed to identify roads and road network segments where investment in bus priority could be implemented and a prioritisation process using a transparent methodology and consistent datasets. With the rich and varied libraries available, Python code was selected as the preferred method of pulling and analysing the data sets and performing the analysis. This has been combined with Jupyter Lab notebooks to provide further analysis and communication of the code. Finally, Folium, Leafmap, and KeplerGL were used to provide the interactive mapping component to show geographically where the investment could be targeted.
 <br><br>
-_Tools used: Python, QGIS, Pandas, GeoPandas, Leaflet, JupyterLab_
+_Tools used: Python, OSMnx, GeoPandas, Leaflet, JupyterLab, KeplerGL_
 <br>
 <img src="images/walking_time.PNG?raw=true"/>
 
