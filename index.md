@@ -19,7 +19,7 @@ A persistent issue for governemnet agencies is how to identify urban locations t
 <br><br>
 _Tools used: Python, OSMnx, GeoPandas, Leaflet, JupyterLab, KeplerGL_
 <br>
-<img src="images/walking_time.PNG?raw=true"/>
+<img src="images/infrastructure.gif?raw=true"/>
 
 ---
 **[Forecasting Walking Time Access to High-Frequency Public Transport Services](/pdf/sample_presentation.pdf)**
