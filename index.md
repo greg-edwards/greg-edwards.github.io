@@ -43,6 +43,16 @@ _Tools used: R, GGPlot2_
 
 ## Visualisations & Web Applications
 
+**[Visualising PT Priority Infrastructure Requirements](http://example.com/)**
+<br><br>
+An interactive web application tool was develoepd to visualise and summaise prirotiy and secodnary locatiosn across the transport network that would be amenable to bus priority infrastructure.
+
+ 
+<br><br>
+_Tools used: JavaScript, HTML, CSS, Python, Streamlit_
+<br>
+<img src="images/streamlit.gif?raw=true"/>
+
 **[Understanding Changes to PT Service Modifications](http://example.com/)**
 <br><br>
 This is a useful interactive web application tool that was created to visually illustrate changes to bus routes and other service modifications in the Western Bay of Plenty. Various route statistics are shown - such as route length, annual operating cost, kilometres driven per year, and forecast average daily PT demand - allowing the user to understand the wider imapacts that service modifications will have. The application is dynamically connected to the data sources, meaning that new data is refreshed with each option. 
