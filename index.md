@@ -40,6 +40,13 @@ _Tools used: R, GGPlot2_
 <img src="images/Rplot_combined.png?raw=true"/>
 
 ---
+**[Predicting Park and Ride Journey Time Accessibility](http://example.com/)**
+<br><br>
+Best practice suggests that the distance and travel time variant that an individual must undertake to drive to a park and ride facility is a significant determinant of the site’s usage. To understand the potential benefits of park and ride facilities, a model was developed to understand driving journey times to the park and ride site along with the potential market catchment using land use growth assumptions. For this analysis, it was assumed that a majority of the market share for each site would originate within a 30 minute or less vehicle travel time to the site. These outputs were combined with forecast (2048) population and dwelling estimates to determine the potential ‘market’ for each site. Dedicated express bus services were assumed connecting the site with the CBD and travel time analysis was undertaken to understand the journey time differential between car and bus. The results provided into subsequent value for money calculations for each site.
+<br><br>
+_Tools used: Python, OSMnx, Matplotlib
+<br>
+<img src="images/parkandride.png?raw=true"/>
 
 ## Visualisations & Web Applications
 
