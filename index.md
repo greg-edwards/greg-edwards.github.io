@@ -1,7 +1,5 @@
 ## _Check out some of my projects below👇_
 
-hello this is a test
-
 ## Data Analysis & Modelling (Python, R)
 
 **[Modelling Changes in Journey Time Accessibility by Public Transport](/sample_page)**
